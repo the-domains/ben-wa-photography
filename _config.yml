@@ -1,0 +1,28 @@
+name: Ben WA Photography
+favicon: null
+layout_spectrum: 0.9597636903636158
+typography_spectrum: 0.629467801656574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3479097057133913
+  lightness: 0.817215760005638
+  saturation: 0.48154444713145494
+  rhythmicContrast: 0.3345100786536932
+purpose: []
